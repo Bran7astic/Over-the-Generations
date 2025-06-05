@@ -1,0 +1,9 @@
+.GameCard {
+    display: flex;
+    justify-content: center;
+}
+
+.gameImg {
+    max-width: 150px;
+    border-radius: 25px;
+}
