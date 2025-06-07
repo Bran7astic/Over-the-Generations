@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 - [ ] Buttons or links to a related resources are on each card component
   - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] The site is responsive for both desktop and mobile formats
   - [ ] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
@@ -44,7 +44,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+All the images were manually obtained, so saving images and passing in their path as props was somewhat time consuming. It was also difficult tailoring the styling of the cards the way I imagined them.
 
 ## License
 
