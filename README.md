@@ -33,9 +33,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://submissions.us-east-1.linodeobjects.com/web102/MpqTijZC.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/MpqTijZC.gif' title='Video Preview' width='' alt='Video Walkthrough' />
 
-GIF created with Windows Screen Snipper + MP4 to GIF Converter
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with Windows Snipping tool and MP4 to GIF converter (https://cloudconvert.com/mp4-to-gif)
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
