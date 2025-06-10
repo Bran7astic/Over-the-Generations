@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='./public/preview.gif' title='Video Preview' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->ss
+<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Windows Snipping tool and MP4 to GIF converter (https://cloudconvert.com/mp4-to-gif)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
