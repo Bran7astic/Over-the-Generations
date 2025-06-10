@@ -33,9 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/Pmmw2spa.gif' title='Video Preview' width='' alt='Video Walkthrough' />
+<img src='./public/preview.gif' title='Video Preview' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!-- Replace this with whatever GIF tool you used! -->ss
 GIF created with Windows Snipping tool and MP4 to GIF converter (https://cloudconvert.com/mp4-to-gif)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
